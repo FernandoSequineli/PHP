@@ -29,8 +29,6 @@
     <p>Peso: <?= $peso ?>  </p>
     <p>Fumante: <?= $fumante ?>  </p>
     <p> <?php echo 'Ola ' .$nome . ' Tudo bem?'  ?></p>
-
-
-
+    
 </body>
 </html>
