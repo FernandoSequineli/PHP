@@ -1,5 +1,4 @@
 <?php
-
     //modelo
     class Funcionario {
         //atributos
