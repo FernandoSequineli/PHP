@@ -15,6 +15,5 @@
     <br>
     <? echo 'utilixando a tag curta'; ?>
 
-
 </body>
 </html>
