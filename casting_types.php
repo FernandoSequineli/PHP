@@ -18,7 +18,7 @@
     echo '<br />';
     echo $valor3. ' ' .gettype($valor3);
     
-    //converter de string para int
+    
     $valor4 = '22.12';
     $valor5 = (integer) $valor4;
     echo '<br />';
